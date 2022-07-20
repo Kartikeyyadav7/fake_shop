@@ -3,7 +3,7 @@ import Navbar from './components/Navbar/Navbar'
 import { Routes, Route } from 'react-router-dom'
 import Home from './pages/Home'
 import Product from './pages/Product'
-import { ProductContextProvider } from './context/productsContext'
+import { ProductContextProvider } from './context/ProductsContext'
 import AllProducts from './pages/AllProducts'
 import FilteredProducts from './pages/FilteredProducts'
 

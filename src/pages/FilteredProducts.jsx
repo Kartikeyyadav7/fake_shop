@@ -1,5 +1,5 @@
 import React, { useContext, useEffect } from 'react'
-import { ProductContext } from '../context/productsContext';
+import { ProductContext } from '../context/ProductsContext';
 import { fetchProducts } from '../actions/productAction';
 import ProductCard from '../components/ProductCard';
 import { useParams } from "react-router-dom";

@@ -2,7 +2,7 @@ import React, { useEffect, useContext } from "react";
 import { Star } from "react-feather";
 import { useParams } from "react-router-dom";
 import { fetchOneProduct } from "../actions/productAction";
-import { ProductContext } from "../context/productsContext";
+import { ProductContext } from "../context/ProductsContext";
 
 const Product = () => {
 

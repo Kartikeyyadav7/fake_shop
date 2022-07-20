@@ -7,11 +7,11 @@ import Jewellery from '../../assets/jewellery.png'
 export const Sliderlinks = [
     {
         "imgSrc": MensClothing,
-        "link": '/mensclothing'
+        "link": '/mens'
     },
     {
         "imgSrc": WomensClothing,
-        "link": '/womensclothing'
+        "link": '/womens'
     },
     {
         "imgSrc": Jewellery,
